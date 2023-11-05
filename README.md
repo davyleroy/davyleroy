@@ -1,4 +1,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=davyleroy&theme=github-dark-blue)](https://git.io/streak-stats)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github;"+Nisi+Dominus+Frustra+")](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Davy Mbuto NKURUNZIZA a fullstack Software developper</h1>
 
