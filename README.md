@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github;"+Nisi+Dominus+Frustra+")](https://git.io/typing-svg)
+.[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github;"+Nisi+Dominus+Frustra+")](https://git.io/typing-svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=davyleroy&theme=github-dark-blue)](https://git.io/streak-stats)
 
@@ -107,7 +107,7 @@
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="davyleroy's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=davyleroy&bg_color=1F222E&color=48CAE4&line=ADE8F4&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="davyleroy's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=davyleroy&bg_color=1F222E&color=48CAE4&line=0077B6&point=FFFFFF&hide_border=true" /></a>
 
   <h3>⚡ My recent GitHub Activity</h3>
 
