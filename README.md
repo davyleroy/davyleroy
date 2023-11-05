@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github;"+Nisi+Dominus+Frustra+")](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Davy Mbuto NKURUNZIZA</h1>
-### Social links
+
+### Reach out on my Social links
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mbutodavy)
 [![Github](https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/davyleroy)
