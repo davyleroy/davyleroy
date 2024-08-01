@@ -53,6 +53,9 @@
       <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
       <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
       <a href"#"><img alt="Gunicorn" src="https://img.shields.io/badge/-Gunicorn-499848.svg?logo=gunicorn&logoColor=white"></a>
+      <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+      <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+      <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
       <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
       <a href="#"><img alt="PHPUnit" src="https://custom-icon-badges.demolab.com/badge/PHPUnit-366488.svg?logo=test-tube&logoColor=white"></a>
       <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
@@ -67,6 +70,7 @@
       <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
       <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
       <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+      <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
   </p>
 
   <h3>💻 Software and Tools</h3>
@@ -74,8 +78,10 @@
   <p>
       <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
       <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
+      <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
       <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
       <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
@@ -115,11 +121,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#619](https://github.com/davyleroy/github-readme-streak-stats/issues/619) in [davyleroy/github-readme-streak-stats](https://github.com/davyleroy/github-readme-streak-stats)
+1. 🗣 Commented on [#615](https://github.com/davyleroy/github-readme-streak-stats/issues/619) in [davyleroy/github-readme-streak-stats](https://github.com/davyleroy/github-readme-streak-stats)
 2. 🗣 Commented on [#618](https://github.com/davyleroy/github-readme-streak-stats/issues/618) in [davyleroy/github-readme-streak-stats](https://github.com/davyleroy/github-readme-streak-stats)
 3. 🗣 Commented on [#616](https://github.com/davyleroy/github-readme-streak-stats/issues/616) in [davyleroy/github-readme-streak-stats](https://github.com/davyleroy/github-readme-streak-stats)
-4. 🎉 Merged PR [#147](https://github.com/davyleroy/github-readme-youtube-cards/pull/147) in [davyleroy/github-readme-youtube-cards](https://github.com/davyleroy/github-readme-youtube-cards)
-5. 🎉 Merged PR [#146](https://github.com/davyleroy/github-readme-youtube-cards/pull/146) in [davyleroy/github-readme-youtube-cards](https://github.com/davyleroy/github-readme-youtube-cards)
+4. 🎉 Merged PR [#140](https://github.com/davyleroy/github-readme-youtube-cards/pull/147) in [davyleroy/github-readme-youtube-cards](https://github.com/davyleroy/github-readme-youtube-cards)
+5. 🎉 Merged PR [#140](https://github.com/davyleroy/github-readme-youtube-cards/pull/146) in [davyleroy/github-readme-youtube-cards](https://github.com/davyleroy/github-readme-youtube-cards)
 <!--END_SECTION:activity-->
 
 
