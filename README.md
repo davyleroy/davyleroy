@@ -2,7 +2,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=davyleroy&theme=github-dark-blue)](https://git.io/streak-stats)
 
-<h1 align="center">Hi 👋, I'm Davy Mbuto NKURUNZIZA a Machine Learning Engineer and fullstack developper</h1>
+<h1 align="center">Hi 👋, I'm Davy Mbuto NKURUNZIZA Machine Learning Engineer and fullstack dev </h1>
 
 ### Reach out on my Social links
 
