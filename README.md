@@ -119,7 +119,6 @@
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="davyleroy's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=davyleroy&bg_color=1F222E&color=48CAE4&line=0077B6&point=FFFFFF&hide_border=true" /></a>
 
-  [![Davy's github activity graph](https://activity-graph.herokuapp.com/graph?username=davyleroy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/davyleroy/github-readme-activity-graph)
 
 
 
