@@ -1,4 +1,4 @@
-.[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github;"+Nisi+Dominus+Frustra+")](https://git.io/typing-svg)
+.[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github;"+Nil+Satis+Nisi+Optimum+")](https://git.io/typing-svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=davyleroy&theme=github-dark-blue)](https://git.io/streak-stats)
 
