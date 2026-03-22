@@ -1,6 +1,6 @@
 <div align="center">
 
-![Wave divider](https://readme-svg-wave-divider-generator.vercel.app/wave?type=smooth&width=1200&height=80&amplitude=23&frequency=1&layers=1&color_top=111827&color_bottom=1f2937&opacity=1&flip=true&gradient=true&mirror=false&animate=true&speed=6&text=&text_bottom=&text_color=ffffff&text_bottom_color=a5b4fc&text_size=28&text_bottom_size=22&text_style=normal&text_stroke_color=000000&text_stroke_width=0&text_scale_x=100&text_scale_y=100&text_x=50&text_y=45&text_gap=26&text_align=middle)
+![Wave divider](https://readme-svg-wave-divider-generator.vercel.app/wave?type=smooth&width=1200&height=80&amplitude=23&frequency=1&layers=1&color_top=4B63A0&color_bottom=262E4A&opacity=1&flip=true&gradient=true&mirror=false&animate=true&speed=6&text=&text_bottom=&text_color=ffffff&text_bottom_color=a5b4fc&text_size=28&text_bottom_size=22&text_style=normal&text_stroke_color=000000&text_stroke_width=0&text_scale_x=100&text_scale_y=100&text_x=50&text_y=45&text_gap=26&text_align=middle)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=0096C7&center=true&vCenter=true&width=700&lines=Hey+there%2C+I%27m+Davy+%F0%9F%91%8B;Machine+Learning+Engineer;Full+Stack+Developer+%7C+AI+Builder;Chess+Player+%7C+5+Languages;%22Nil+Satis+Nisi+Optimum%22)](https://git.io/typing-svg)
 
