@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=0096C7&center=true&vCenter=true&width=700&lines=Hey+there%2C+I%27m+Davy+%F0%9F%91%8B;Machine+Learning+Engineer;Full+Stack+Developer+%7C+AI+Builder;Chess+Player+%7C+5+Languages;%22Nil+Satis+Nisi+Optimum%22)](https://git.io/typing-svg)
 
-[![committers.top badge](https://user-badge.committers.top/rwanda/davyleroy.svg)](https://user-badge.committers.top/rwanda/davyleroy)
-
 </div>
 
 ---
