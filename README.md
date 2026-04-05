@@ -20,7 +20,8 @@
 - 🌍 Based in **Kigali, Rwanda** · fluent in **5 languages**
 - ♟️ Chess player & coach — *every move is a decision architecture*
 - 🤖 **Head BoodleBox Ambassador** in Rwanda
-- 🧪 Projects: **Agrisol** (CNN + NLP crop detection), **D-ware AI** *(3rd @ ALU AI Symposium)*, **Atlantis** (curently in development)
+- 🧪 Projects: **Agrisol** (CNN + NLP crop detection), **D-ware AI** *(3rd @ ALU AI Symposium)*,
+**Atlantis** (curently in development)
 - 📌 Currently: AI pipelines · automation systems · capstone defense prep
 - 📫 Reach me at **mbutodavy@gmail.com**
 
