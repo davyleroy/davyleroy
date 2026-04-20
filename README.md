@@ -14,7 +14,7 @@
 
 - 🏢 **IT Officer** @ [Harambee Youth Employment Accelerator](https://www.harambee.rw), Kigali
 - 🎓 **Software Engineering** @ African Leadership University *(AI & ML specialization, 2026)*
-- 🚀 Co-founder of **Tenex** — building tomorrow's tech, today
+- 🚀 Co-founder of [**Tenex**](https://www.tenex.rw) — building tomorrow's tech, today
 - 🌍 Based in **Kigali, Rwanda** · fluent in **5 languages**
 - ♟️ Chess player & coach — *every move is a decision architecture*
 - 🤖 **Head BoodleBox Ambassador** in Rwanda
