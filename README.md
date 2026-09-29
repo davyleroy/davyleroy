@@ -13,6 +13,7 @@
 ## 👨‍💻 About Me
 
 - 🏢 **IT Officer** @ [Harambee Youth Employment Accelerator](https://www.harambee.rw), Kigali
+- 🎓 *Msc* **Engineering Artificial Inteligence** @ Carnegie Mellon University *(AI & ML specialization, 2028)*
 - 🎓 **Software Engineering** @ African Leadership University *(AI & ML specialization, 2026)*
 - 🚀 Co-founder of [**Tenex**](https://www.tenex.rw) — building tomorrow's tech, today
 - 🌍 Based in **Kigali, Rwanda** · fluent in **5 languages**
@@ -20,7 +21,7 @@
 - 🤖 **Head BoodleBox Ambassador** in Rwanda
 - 🧪 Projects: **Agrisol** (CNN + NLP crop detection), **D-ware AI** *(3rd @ ALU AI Symposium)*,
 **Atlantis** (currently in development)
-- 📌 Currently: AI pipelines · automation systems · ALU Software eng Graduand elect 🎓
+- 📌 Currently: AI pipelines · automation systems · CMU class of 2028 🎓
 - 📫 Reach me at **mbutodavy@gmail.com**
 
 <br clear="right"/>
